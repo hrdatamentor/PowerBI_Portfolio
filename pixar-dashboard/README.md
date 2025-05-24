@@ -1,11 +1,11 @@
 # Pixar Dashboard
 
-[Pixar Dashboard preview](screenshot1.png)
-[Pixar Dashboard preview](screenshot2.png)
-[Pixar Dashboard preview](screenshot3.png)
-[Pixar Dashboard preview](screenshot4.png)
-[Pixar Dashboard preview](screenshot5.png)
-[Pixar Dashboard preview](screenshot6.png)
+[Pixar Dashboard preview](pixar_screenshot1.png)
+[Pixar Dashboard preview](pixar_screenshot2.png)
+[Pixar Dashboard preview](pixar_screenshot3.png)
+[Pixar Dashboard preview](pixar_screenshot4.png)
+[Pixar Dashboard preview](pixar_screenshot5.png)
+[Pixar Dashboard preview](pixar_screenshot6.png)
 
 **EN**  
 A 6-page interactive Power BI report exploring the world of Pixar movies, characters, box office trends, awards, and fun facts.  
