@@ -48,6 +48,34 @@ A business-oriented HR analytics dashboard.
 
 ---
 
+### 🔹 [Washington Crimes](./washingtoncrimes-dashboard)
+
+An interactive Power BI report analyzing crime cases in Washington, D.C. by time period, location, and offense type.  
+The dashboard displays the number of total, open, and closed cases, highlights top crime categories, and shows spatial patterns using a crime heatmap.  
+It also includes time-of-day breakdowns, average resolution time per crime type, and the ratio of violent vs. property offenses.
+
+🔹 Overview of total, open, and closed cases  
+🔹 Ratio of violent vs. property crimes  
+🔹 Most frequent crime categories  
+🔹 Heatmap showing Washington’s crime intensity  
+🔹 Time-of-day and district breakdown  
+🔹 Average case resolution time by offense type  
+🔹 Advanced Power BI features: DAX, bookmarks, drill through
+
+
+Egy interaktív Power BI dashboard, amely a washingtoni bűneseteket vizsgálja időszaki, földrajzi és típus szerinti bontásban.  
+Az elemzés bemutatja a lezárt, nyitott és összes esetek számát, a leggyakoribb bűncselekményeket, és vizualizálja a bűnözés intenzitását a város különböző részein.  
+Kiemelt szerepet kapnak a napszakok szerinti bontások, a felderítési idő, valamint az erőszakos és vagyon elleni esetek aránya.  
+
+🔹 Összes, nyitott és lezárt eset vizualizálása  
+🔹 Erőszakos vs. vagyon elleni bűncselekmények aránya  
+🔹 Top bűncselekmény kategóriák  
+🔹 Hőtérkép a bűnözési gócpontokról Washingtonban  
+🔹 Napszaki és kerületi bontás  
+🔹 Átlagos felderítési idő bűncselekmény-típusonként  
+🔹 Fejlett Power BI funkciók: DAX, bookmarkok, drill through
+
+
 ### 🔹 More dashboards coming soon...  
 Currently working on my next business analytics dashboard — stay tuned!
 
