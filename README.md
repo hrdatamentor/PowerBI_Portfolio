@@ -48,7 +48,7 @@ A business-oriented HR analytics dashboard.
 
 ---
 
-### 🔹 [Washington Crimes](./washingtoncrimes-dashboard)
+### 🔹 [Washington Crimes Dashboard](./washingtoncrimes-dashboard)
 
 An interactive Power BI report analyzing crime cases in Washington, D.C. by time period, location, and offense type.  
 The dashboard displays the number of total, open, and closed cases, highlights top crime categories, and shows spatial patterns using a crime heatmap.  
