@@ -1,8 +1,8 @@
 
 ### 🕵️ Washingtoni Bűnesetek Dashboard | Washington Crimes Dashboard
 
-[Washington Crimes Dashboard preview](Képernyőkép 2025-06-18 120530.png)
-[Washington Crimes Dashboard preview](Képernyőkép 2025-06-11 194106.png)
+[Washington Crimes Dashboard preview](washington_screenshot1.png)
+[Washington Crimes Dashboard preview](washington_screenshot2.png)
 
 **HU**  
 Interaktív Power BI dashboard, amely a washingtoni bűneseteket elemzi bűntípus, kerület és napszak szerinti bontásban.
